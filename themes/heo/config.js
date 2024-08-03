@@ -24,7 +24,7 @@ const CONFIG = {
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '科技分享', url: '/tag/科技分享' },
-  HEO_HERO_CATEGORY_2: { title: '海那儿边', url: '/tag/热门文章' },
+  HEO_HERO_CATEGORY_2: { title: '海那儿边', url: '/tag/海那儿边' },
   HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
