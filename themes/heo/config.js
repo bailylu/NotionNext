@@ -4,10 +4,10 @@ const CONFIG = {
   HEO_SITE_CREATE_TIME: '2024-08-1', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
- // NOTICE_BAR: [
- //   { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
- //   { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
- //  ],
+  NOTICE_BAR: [
+    { title: '我的生活分享', url: 'https://muselink.cc/bailylife%20%F0%9F%91%88%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84MuseLink%E6%95%B0%E5%AD%97%E5%90%8D%E7%89%87%EF%BC%81' },
+    { title: '我的推荐', url: 'https://muselink.cc/bailytalk%20%F0%9F%91%88%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84MuseLink%E6%95%B0%E5%AD%97%E5%90%8D%E7%89%87%EF%BC%81' }
+   ],
 
   // 英雄区左右侧组件颠倒位置
   HEO_HERO_REVERSE: true,
