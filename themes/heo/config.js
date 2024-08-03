@@ -1,7 +1,7 @@
 const CONFIG = {
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2024-08-1', // 建站日期，用于计算网站运行的第几天
 
   
 
@@ -32,7 +32,6 @@ const CONFIG = {
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
     '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
     '🏃 脚踏实地行动派',
     '🏠 智能家居小能手',
     '🤖️ 数码科技爱好者',
