@@ -7,7 +7,7 @@ const CONFIG = {
   NOTICE_BAR: [
     { title: '生活分享', url: 'https://muselink.cc/bailylife%20%F0%9F%91%88%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84MuseLink%E6%95%B0%E5%AD%97%E5%90%8D%E7%89%87%EF%BC%81' },
     { title: '我的推荐', url: 'https://muselink.cc/bailytalk%20%F0%9F%91%88%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84MuseLink%E6%95%B0%E5%AD%97%E5%90%8D%E7%89%87%EF%BC%81' }
-   ],
+  ],
 
   // 英雄区左右侧组件颠倒位置
   HEO_HERO_REVERSE: true,
@@ -25,7 +25,7 @@ const CONFIG = {
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '科技分享', url: '/tag/科技分享' },
   HEO_HERO_CATEGORY_2: { title: '海那儿边', url: '/tag/海那儿边' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_3: { title: '还没想好', url: '/tag/实用教程' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
