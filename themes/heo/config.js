@@ -6,7 +6,7 @@ const CONFIG = {
   
 
   // 英雄区左右侧组件颠倒位置
-  HEO_HERO_REVERSE: false,
+  HEO_HERO_REVERSE: true,
   // 博客主体区左右侧组件颠倒位置
   HEO_HERO_BODY_REVERSE: false,
 
@@ -15,8 +15,8 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '科技价值',
   HEO_HERO_TITLE_3: 'baily.life',
   HEO_HERO_TITLE_4: '我的小店',
-  HEO_HERO_TITLE_5: '看看有没有你需要的',
-  HEO_HERO_TITLE_LINK: 'shop.baily.life',
+  HEO_HERO_TITLE_5: '贝利小铺',
+  HEO_HERO_TITLE_LINK: 'https://shop.baily.life/',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
