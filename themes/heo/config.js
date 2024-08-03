@@ -13,7 +13,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '生活',
   HEO_HERO_TITLE_2: '科技价值',
-  HEO_HERO_TITLE_3: 'baily.life',
+  HEO_HERO_TITLE_3: 'https://baily.life/',
   HEO_HERO_TITLE_4: '我的小店',
   HEO_HERO_TITLE_5: '贝利小铺',
   HEO_HERO_TITLE_LINK: 'https://shop.baily.life/',
