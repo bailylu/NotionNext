@@ -3,17 +3,20 @@ const CONFIG = {
   LANDING_HEADER_BUTTON_1_TITLE: '我的life记录',
   LANDING_HEADER_BUTTON_1_URL: 'https://vlog.baily.life',
 
-  LANDING_HEADER_BUTTON_2_TITLE: '我的博客',
-  LANDING_HEADER_BUTTON_2_URL: 'https://blog.baily.Life/',
+  LANDING_HEADER_BUTTON_1_TITLE: '好物推荐',
+  LANDING_HEADER_BUTTON_1_URL: 'https://vlog.baily.life',
+
+  LANDING_HEADER_BUTTON_2_TITLE: '我的小铺',
+  LANDING_HEADER_BUTTON_2_URL: 'https://shop.baily.life',
 
   // 首页大图英雄板块
   LANDING_HERO_TITLE_1: '贝利说TV',
   LANDING_HERO_P_1: 'Tech Value | 科技/生活/性价比',
-  LANDING_HERO_BUTTON_1_TEXT: '好物推荐',
-  LANDING_HERO_BUTTON_1_LINK: 'https://muselink.cc/bailytalk',
-  LANDING_HERO_BUTTON_2_TEXT: '我的小铺',
-  LANDING_HERO_BUTTON_2_LINK: 'https://shop.baily.life',
-  LANDING_HERO_VIDEO_IMAGE: '/images/资源_160.png',
+  LANDING_HERO_BUTTON_1_TEXT: '关注我',
+  LANDING_HERO_BUTTON_1_LINK: 'https://muselink.cc/bailylu',
+  LANDING_HERO_BUTTON_2_TEXT: '我的博客',
+  LANDING_HERO_BUTTON_2_LINK: 'https://blog.baily.life',
+  LANDING_HERO_VIDEO_IMAGE: '/images/home.png',
   //   HERO_VIDEO_URL: '/videos/video.mp4',
   LANDING_HERO_VIDEO_IFRAME: 'https://player.bilibili.com/player.html?isOutside=true&aid=81706629&bvid=BV1GJ41187fG&cid=139803839&p=1',
   LANDING_HERO_VIDEO_TIPS: 'Watch the full video',
