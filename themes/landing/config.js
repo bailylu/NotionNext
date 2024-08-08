@@ -16,7 +16,7 @@ const CONFIG = {
   LANDING_HERO_BUTTON_1_LINK: 'https://muselink.cc/bailylu',
   LANDING_HERO_BUTTON_2_TEXT: '我的博客',
   LANDING_HERO_BUTTON_2_LINK: 'https://blog.baily.life',
-  LANDING_HERO_VIDEO_IMAGE: '/images/home.png',
+  LANDING_HERO_VIDEO_IMAGE: '/images/baily.JPG',
   //   HERO_VIDEO_URL: '/videos/video.mp4',
   LANDING_HERO_VIDEO_IFRAME: 'https://player.bilibili.com/player.html?isOutside=true&aid=81706629&bvid=BV1GJ41187fG&cid=139803839&p=1',
   LANDING_HERO_VIDEO_TIPS: 'Watch the full video',
