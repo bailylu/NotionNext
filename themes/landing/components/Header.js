@@ -48,6 +48,11 @@ export default function Header() {
                   </svg>
                 </Link>
               </li>
+              <li>
+                <Link href={siteConfig('LANDING_HEADER_BUTTON_3_URL', null, CONFIG)} target='_blank' className="font-medium hover:font-bold text-gray-600 hover:text-gray-900 dark:text-gray-400 px-5 py-3 flex items-center transition duration-150 ease-in-out">
+                   <div>{siteConfig('LANDING_HEADER_BUTTON_3_TITLE', null, CONFIG)}</div>
+                </Link>
+              </li>
             </ul>
 
           </nav>
