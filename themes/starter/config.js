@@ -15,7 +15,7 @@ const CONFIG = {
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '开始查询', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
-    'https://docs.tangly1024.com/article/vercel-deploy-notion-next', // 英雄区按钮
+    'https://school.izanoffer.com', // 英雄区按钮
   STARTER_HERO_BUTTON_2_TEXT: '来论坛一起讨论吧', // 英雄区按钮
   STARTER_HERO_BUTTON_2_URL: 'https://github.com/tangly1024/NotionNext', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
