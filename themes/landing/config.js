@@ -4,7 +4,7 @@ const CONFIG = {
   LANDING_HEADER_BUTTON_1_URL: 'https://vlog.baily.life',
 
   LANDING_HEADER_BUTTON_1_TITLE: '好物推荐',
-  LANDING_HEADER_BUTTON_1_URL: 'https://vlog.baily.life',
+  LANDING_HEADER_BUTTON_1_URL: 'https://muselink.cc/bailytalk',
 
   LANDING_HEADER_BUTTON_2_TITLE: '我的小铺',
   LANDING_HEADER_BUTTON_2_URL: 'https://shop.baily.life',
