@@ -24,14 +24,14 @@ const CONFIG = {
   // 特性介绍
   LANDING_FEATURES_HEADER_1: '人生探索的过程',
   LANDING_FEATURES_HEADER_1_P: "我为什么要搭建一个属于自己的网站，为什么要把一切都记录下来？<br/>曾经，我可能和你<strong class='font-bold text-red-500'>一样</strong>没有发现生活中的快乐、从来没有<strong class='font-bold  text-red-500'>记录</strong>的习惯、因此我失去了太多<strong class='font-bold text-red-500'>珍贵</strong>且<strong class='font-bold text-red-500'>重要</strong>的回忆;<br/>现在，我想把自己的爱好、自己的生活、朋友、家人、一切的一切都记录下来，想让世界知道我来过，分享我所感受到的一切，希望对你有帮助，也希望你能喜欢",
-  LANDING_FEATURES_HEADER_2: 'Notion+NextJs组合方案',
-  LANDING_FEATURES_HEADER_2_P: '在Notion笔记中管理文章数据，NextJs将其渲染成网页排版，通过Vercel等第三方平台将您的网站发布到全球。',
-  LANDING_FEATURES_CARD_1_TITLE: '简单快速的系统',
-  LANDING_FEATURES_CARD_1_P: '在Notion中写下一篇文章，内容立刻在您的网站首页中呈现给互联网',
-  LANDING_FEATURES_CARD_2_TITLE: '高效传播的媒介',
-  LANDING_FEATURES_CARD_2_P: '优秀的SEO、快速的响应速度，让您的产品和宣传触达到更多的受众',
-  LANDING_FEATURES_CARD_3_TITLE: '人性化的定制工具',
-  LANDING_FEATURES_CARD_3_P: '多款主题供您挑选，可以搭建各种不同风格和作用的网站，更多的主题正在陆续加入中。',
+ // LANDING_FEATURES_HEADER_2: 'Notion+NextJs组合方案',
+ // LANDING_FEATURES_HEADER_2_P: '在Notion笔记中管理文章数据，NextJs将其渲染成网页排版，通过Vercel等第三方平台将您的网站发布到全球。',
+ // LANDING_FEATURES_CARD_1_TITLE: '简单快速的系统',
+//  LANDING_FEATURES_CARD_1_P: '在Notion中写下一篇文章，内容立刻在您的网站首页中呈现给互联网',
+ // LANDING_FEATURES_CARD_2_TITLE: '高效传播的媒介',
+ // LANDING_FEATURES_CARD_2_P: '优秀的SEO、快速的响应速度，让您的产品和宣传触达到更多的受众',
+//  LANDING_FEATURES_CARD_3_TITLE: '人性化的定制工具',
+ // LANDING_FEATURES_CARD_3_P: '多款主题供您挑选，可以搭建各种不同风格和作用的网站，更多的主题正在陆续加入中。',
 
   // 特性介绍2
   LANDING_FEATURES_BLOCK_HEADER: '解决方案',
