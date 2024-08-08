@@ -22,8 +22,8 @@ const CONFIG = {
   LANDING_HERO_VIDEO_TIPS: 'Watch the full video',
 
   // 特性介绍
-  LANDING_FEATURES_HEADER_1: '探索的过程',
-  LANDING_FEATURES_HEADER_1_P: "如何搭建自己的门户网站，塑造一个品牌展示中心？<br/>曾经，它是系统<strong class='font-bold text-red-500'>繁重</strong>的Wordpress、是操作<strong class='font-bold  text-red-500'>复杂</strong>的Hexo、是<strong class='font-bold text-red-500'>昂贵</strong>且<strong class='font-bold text-red-500'>不稳定</strong>的技术团队;<br/>现在，只要一个Notion笔记就够了",
+  LANDING_FEATURES_HEADER_1: '人生探索的过程',
+  LANDING_FEATURES_HEADER_1_P: "我为什么要搭建一个属于自己的网站，为什么要把一切都记录下来？<br/>曾经，我可能和你<strong class='font-bold text-red-500'>一样</strong>没有发现生活中的快乐、从来没有<strong class='font-bold  text-red-500'>记录</strong>的习惯、因此我失去了太多<strong class='font-bold text-red-500'>珍贵</strong>且<strong class='font-bold text-red-500'>重要</strong>的回忆;<br/>现在，我想把自己的爱好、自己的生活、朋友、家人、一切的一切都记录下来，想让世界知道我来过，分享我所感受到的一切，希望对你有帮助，也希望你能喜欢",
   LANDING_FEATURES_HEADER_2: 'Notion+NextJs组合方案',
   LANDING_FEATURES_HEADER_2_P: '在Notion笔记中管理文章数据，NextJs将其渲染成网页排版，通过Vercel等第三方平台将您的网站发布到全球。',
   LANDING_FEATURES_CARD_1_TITLE: '简单快速的系统',
