@@ -1,7 +1,7 @@
 const CONFIG = {
 
-  LANDING_HEADER_BUTTON_1_TITLE: '我的life记录',
-  LANDING_HEADER_BUTTON_1_URL: 'https://vlog.baily.life',
+  LANDING_HEADER_BUTTON_3_TITLE: '我的life记录',
+  LANDING_HEADER_BUTTON_3_URL: 'https://vlog.baily.life',
 
   LANDING_HEADER_BUTTON_1_TITLE: '好物推荐',
   LANDING_HEADER_BUTTON_1_URL: 'https://muselink.cc/bailytalk',
