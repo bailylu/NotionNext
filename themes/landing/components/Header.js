@@ -28,7 +28,7 @@ export default function Header() {
 
           {/* Site branding */}
           <div className="shrink-0 mr-4">
-            <Logo />
+            <Logo /public/images/资源_160.png>
           </div>
 
           {/* Desktop navigation */}
