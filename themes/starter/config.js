@@ -10,8 +10,8 @@ const CONFIG = {
 
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
-  STARTER_HERO_TITLE_1: '开源且免费的欧洲留学院校资源', // 英雄区文字
-  STARTER_HERO_TITLE_2: '一起diy留学吧', // 英雄区文字
+  STARTER_HERO_TITLE_1: '欧洲留学DIY平台，让留学简单一点', // 英雄区文字
+  STARTER_HERO_TITLE_2: '意大利、西班牙、法国、北欧等欧洲国家留学相关知识经验分享', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '关注我们', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
