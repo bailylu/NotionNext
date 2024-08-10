@@ -26,8 +26,8 @@ const CONFIG = {
   //STARTER_NAV_BUTTON_1_TEXT: 'Sign In',
   //STARTER_NAV_BUTTON_1_URL: '/signin',
 
-  //STARTER_NAV_BUTTON_2_TEXT: 'Sign Up',
-  //STARTER_NAV_BUTTON_2_URL: '/signup',
+  STARTER_NAV_BUTTON_2_TEXT: '了解更多',
+  STARTER_NAV_BUTTON_2_URL: '/signup',
 
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
