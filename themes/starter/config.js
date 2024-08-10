@@ -13,10 +13,10 @@ const CONFIG = {
   STARTER_HERO_TITLE_1: '开源且免费的欧洲留学院校资源', // 英雄区文字
   STARTER_HERO_TITLE_2: '一起diy留学吧', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
-  STARTER_HERO_BUTTON_1_TEXT: '开始查询', // 英雄区按钮
+  STARTER_HERO_BUTTON_1_TEXT: '关注我们', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
-    'https://school.izanoffer.com', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_TEXT: '来论坛一起讨论吧', // 英雄区按钮
+    'https://www.izanoffer.com/404', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_TEXT: '来论坛一起DIY吧', // 英雄区按钮
   STARTER_HERO_BUTTON_2_URL: 'https://github.com/tangly1024/NotionNext', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
 
@@ -26,8 +26,8 @@ const CONFIG = {
   //STARTER_NAV_BUTTON_1_TEXT: 'Sign In',
   //STARTER_NAV_BUTTON_1_URL: '/signin',
 
-  STARTER_NAV_BUTTON_2_TEXT: '了解更多',
-  STARTER_NAV_BUTTON_2_URL: '/signup',
+  STARTER_NAV_BUTTON_2_TEXT: 'signin',
+  STARTER_NAV_BUTTON_2_URL: '/signin',
 
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
