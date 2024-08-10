@@ -15,7 +15,7 @@ const CONFIG = {
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '关注我们', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
-    'https://https://muselink.cc/izanoffer', // 英雄区按钮
+    'https://muselink.cc/izanoffer', // 英雄区按钮
   STARTER_HERO_BUTTON_2_TEXT: '来论坛一起DIY吧', // 英雄区按钮
   STARTER_HERO_BUTTON_2_URL: 'https://bbs.izanoffer.com', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
