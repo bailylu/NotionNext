@@ -1,31 +1,31 @@
 const CONFIG = {
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2024-08-1', // 建站日期，用于计算网站运行的第几天
-
-  // 首页顶部通知条滚动内容，如不需要可以留空 []
+  HEO_SITE_CREATE_TIME: '2014-08-1', // 建站日期，用于计算网站运行的第几天
+  
+// 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title: '生活分享', url: 'https://muselink.cc/bailylife%20%F0%9F%91%88%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84MuseLink%E6%95%B0%E5%AD%97%E5%90%8D%E7%89%87%EF%BC%81' },
-    { title: '我的推荐', url: 'https://muselink.cc/bailytalk%20%F0%9F%91%88%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84MuseLink%E6%95%B0%E5%AD%97%E5%90%8D%E7%89%87%EF%BC%81' }
+    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
+    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
   ],
 
   // 英雄区左右侧组件颠倒位置
-  HEO_HERO_REVERSE: true,
+  HEO_HERO_REVERSE: false,
   // 博客主体区左右侧组件颠倒位置
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '生活',
-  HEO_HERO_TITLE_2: '科技价值',
-  HEO_HERO_TITLE_3: 'baily.life',
-  HEO_HERO_TITLE_4: '我的小店',
+  HEO_HERO_TITLE_1: '分享',
+  HEO_HERO_TITLE_2: '留学经验',
+  HEO_HERO_TITLE_3: 'izanoffer.com',
+  HEO_HERO_TITLE_4: '',
   HEO_HERO_TITLE_5: '贝利小铺',
   HEO_HERO_TITLE_LINK: 'https://shop.baily.life/',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '科技分享', url: '/tag/科技分享' },
+  HEO_HERO_CATEGORY_1: { title: '经验分享', url: '/tag/科技分享' },
   HEO_HERO_CATEGORY_2: { title: '海那儿边', url: '/tag/海那儿边' },
-  HEO_HERO_CATEGORY_3: { title: '还没想好', url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_3: { title: '入站必读', url: '/tag/实用教程' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -114,7 +114,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '公众号',
   HEO_SOCIAL_CARD_TITLE_2: '快人一步获取最新文章',
   HEO_SOCIAL_CARD_TITLE_3: '点击关注',
-  HEO_SOCIAL_CARD_URL: 'https://mp.weixin.qq.com/s?__biz=Mzg2MDg3NTk0MQ==&mid=2247483677&idx=1&sn=b2b6c610a97d18d7684e90d491ed935b&chksm=ce1efcd7f96975c1a04994bc00181ec349853be6fdf99aef84cf2cbe44fb5b9042bb2376a194&token=9436536&lang=zh_CN#rd',
+  HEO_SOCIAL_CARD_URL: 'https://mp.weixin.qq.com/s?__biz=MzIxNzgxOTQzMA==&mid=2247490649&idx=1&sn=985dc0af72eee0060db7166e9b54fda3&chksm=97f2ac10a0852506698d35ac280d96e6d5b0a60db5cb64a3df34238d9670f49a87cef30cc951&token=636473715&lang=zh_CN#rd',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
