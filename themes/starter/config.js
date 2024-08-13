@@ -113,7 +113,7 @@ const CONFIG = {
   STARTER_TESTIMONIALS_TITLE: '用户反馈',
   STARTER_TESTIMONIALS_TEXT_1: '我们的用户怎么说',
   STARTER_TESTIMONIALS_TEXT_2:
-    '数千位留学生选择用IZNAOFFER完成他们的留学,通过帮助手册、交流社群以及技术咨询，大家成功上申请上了学校和签证',
+    '数千位留学生选择用IZNAOFFER完成他们的留学,通过帮助手册、交流社群以及技术咨询，大家成功上申请了学校和签证',
   STARTER_TESTIMONIALS_STAR_ICON: '/images/starter/testimonials/icon-star.svg', // 评分图标
 
   // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
