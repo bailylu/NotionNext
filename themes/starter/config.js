@@ -26,7 +26,7 @@ const CONFIG = {
   //STARTER_NAV_BUTTON_1_TEXT: 'Sign In',
   //STARTER_NAV_BUTTON_1_URL: '/signin',
 
-  STARTER_NAV_BUTTON_2_TEXT: 'signin',
+  STARTER_NAV_BUTTON_2_TEXT: '敬请期待',
   STARTER_NAV_BUTTON_2_URL: '/signin',
 
   // 特性区块
