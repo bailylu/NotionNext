@@ -19,8 +19,8 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '留学经验',
   HEO_HERO_TITLE_3: 'izanoffer.com',
   HEO_HERO_TITLE_4: '',
-  HEO_HERO_TITLE_5: '贝利小铺',
-  HEO_HERO_TITLE_LINK: 'https://shop.baily.life/',
+  HEO_HERO_TITLE_5: '院校库',
+  HEO_HERO_TITLE_LINK: 'https://school.izanoffer.com/',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '经验分享', url: '/tag/科技分享' },
