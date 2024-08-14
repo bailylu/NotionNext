@@ -10,7 +10,7 @@ const CONFIG = {
 
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
-  STARTER_HERO_TITLE_1: 'DIY留学平台，让留学简单点', // 英雄区文字
+  STARTER_HERO_TITLE_1: 'DIY出国平台，让出国简单点', // 英雄区文字
   STARTER_HERO_TITLE_2: '意大利、西班牙、匈牙利、北欧等欧洲国家留学', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '关注我们', // 英雄区按钮
