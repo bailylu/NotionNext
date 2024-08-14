@@ -11,7 +11,7 @@ const CONFIG = {
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
   STARTER_HERO_TITLE_1: 'DIY出国平台，让出国简单点', // 英雄区文字
-  STARTER_HERO_TITLE_2: '意大利、西班牙、匈牙利、北欧等欧洲国家留学', // 英雄区文字
+  STARTER_HERO_TITLE_2: '意大利、西班牙、匈牙利、北欧等欧洲国家', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '关注我们', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
@@ -34,41 +34,41 @@ const CONFIG = {
   STARTER_FEATURE_TITLE: '特性', // 特性
   STARTER_FEATURE_TEXT_1: 'IZANOFFER的主要特性', // 特性
   STARTER_FEATURE_TEXT_2:
-    'IZANOFFER的愿景是帮助每位留学生能进行DIY留学、无需任何中介，通过自我认知完成留学目标。 ', // 特性
+    'IZANOFFER的愿景是帮助每位同学能进行DIY出国、无需任何中介，通过自我认知完成出国目标。 ', // 特性
 
   STARTER_FEATURE_1_TITLE_1: '自主DIY支持', // 特性1
-  STARTER_FEATURE_1_TEXT_1: '提供全面的DIY留学资源和工具，赋能学生独立完成申请过程', // 特性1
+  STARTER_FEATURE_1_TEXT_1: '提供全面的DIY出国资源和工具，赋能学生独立完成申请过程', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
   STARTER_FEATURE_1_BUTTON_URL: '', // 特性1
 
   STARTER_FEATURE_2_TITLE_1: '免费知识共享', // 特性2
-  STARTER_FEATURE_2_TEXT_1: '开放的平台模式，鼓励用户分享经验和资源，形成活跃的留学社区', // 特性2
+  STARTER_FEATURE_2_TEXT_1: '开放的平台模式，鼓励用户分享经验和资源，形成活跃的出海社区', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
     '', // 特性2
 
   STARTER_FEATURE_3_TITLE_1: '全面信息库', // 特性3
-  STARTER_FEATURE_3_TEXT_1: '丰富的院校数据库和留学攻略，为学生提供准确、及时的决策依据', // 特性3
+  STARTER_FEATURE_3_TEXT_1: '丰富的院校数据库和出国攻略，为学生提供准确、及时的决策依据', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
   STARTER_FEATURE_3_BUTTON_URL: '', // 特性3
 
   STARTER_FEATURE_4_TITLE_1: '互动交流平台', // 特性4
-  STARTER_FEATURE_4_TEXT_1: '设有讨论群组和留学论坛，促进peer-to-peer学习和信息交流', // 特性4
+  STARTER_FEATURE_4_TEXT_1: '设有讨论群组和出国论坛，促进peer-to-peer学习和信息交流', // 特性4
   STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
   STARTER_FEATURE_4_BUTTON_URL: '', // 特性4
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
-  STARTER_ABOUT_TITLE: '一套简单方便的留学解决方案',
+  STARTER_ABOUT_TITLE: '一套简单方便的出国解决方案',
   STARTER_ABOUT_TEXT:
-    '我们是一个创新的DIY留学平台，致力于通过全面的信息支持、免费资源共享和互动社区，赋能学生自主完成留学申请。我们的平台集成了详尽的院校数据库、实用的留学攻略、活跃的讨论社区，为留学生提供一站式的DIY留学解决方案，让留学之路更加透明、高效且经济实惠',
+    '我们是一个创新的DIY出国平台，致力于通过全面的信息支持、免费资源共享和互动社区，赋能学生自主完成留学申请。我们的平台集成了详尽的院校数据库、实用的留学攻略、活跃的讨论社区，为留学生提供一站式的DIY留学解决方案，让留学之路更加透明、高效且经济实惠',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
   STARTER_ABOUT_BUTTON_URL: '',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_TIPS_1: '7000+',
-  STARTER_ABOUT_TIPS_2: '留学生',
-  STARTER_ABOUT_TIPS_3: '成功完成diy留学',
+  STARTER_ABOUT_TIPS_2: '出国需求',
+  STARTER_ABOUT_TIPS_3: '成功完成diy出国',
 
   // 首页价格区块
   STARTER_PRICING_ENABLE: true, // 价格区块开关
@@ -290,7 +290,7 @@ const CONFIG = {
     }
   ],
 
-  STARTER_FOOTER_SLOGAN: '我们通过共享经验来完成diy留学的可能性',
+  STARTER_FOOTER_SLOGAN: '我们通过共享经验来完成diy出国的可能性',
 
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
