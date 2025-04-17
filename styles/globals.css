@@ -298,3 +298,8 @@ img {
   @keyframes l1 {
   0% {background-position: right}
 }
+
+
+.bg-primary{background-color:#008080	!important;}
+.text-primary{color:#008080	!important;}
+.sticky .signUpBtn {background-color:#008080 !important;}
