@@ -292,7 +292,7 @@ const CONFIG = {
     }
   ],
 
-  STARTER_FOOTER_SLOGAN: '用最简单的方式，玩转最酷的科技',
+  STARTER_FOOTER_SLOGAN: '让我们一起花费更少，享受更好，一起找到最具性价比的生活方式',
 
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
@@ -301,6 +301,7 @@ const CONFIG = {
       LINK_GROUP: [
         { TITLE: 'youtube', URL: 'https://www.youtube.com/channel/UCR7jniK3h1EpcgDGWbRsWXQ' },
         { TITLE: 'Bilibili', URL: 'https://docs.tangly1024.com/about' },
+        { TITLE: '小红书', URL: 'https://www.xiaohongshu.com/user/profile/62f20175000000001f014d36?xsec_token=ABeSFgZmB8DFqK9Ld2VrN_YLJjqVInFinE6_EWwKEdIGg%3D&xsec_source=pc_search' },
         {
           TITLE: '公众号',
           URL: 'https://mp.weixin.qq.com/s?__biz=Mzg2MDg3NTk0MQ==&mid=2247483677&idx=1&sn=b2b6c610a97d18d7684e90d491ed935b&chksm=ce1efcd7f96975c1a04994bc00181ec349853be6fdf99aef84cf2cbe44fb5b9042bb2376a194&token=9436536&lang=zh_CN#rd'
@@ -326,19 +327,19 @@ const CONFIG = {
       ]
     },
     {
-      TITLE: 'Notion写作',
+      TITLE: '我的推荐',
       LINK_GROUP: [
         {
-          TITLE: 'Notion开始写作',
-          URL: 'https://docs.tangly1024.com/article/start-to-write'
+          TITLE: 'ref推荐链接',
+          URL: 'https://baily.life/ref'
         },
         {
-          TITLE: '快捷键提升效率',
-          URL: 'https://docs.tangly1024.com/article/notion-short-key'
+          TITLE: 'Airhelp航空理赔',
+          URL: 'https://share.airhelp.com/Upj2hg'
         },
         {
-          TITLE: '中国大陆使用Notion',
-          URL: 'https://jiaocheng.us.kg'
+          TITLE: 'Notion会员',
+          URL: 'https://vipnotion.edu.kg'
         }
       ]
     }
