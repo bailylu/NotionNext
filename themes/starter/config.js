@@ -68,9 +68,9 @@ const CONFIG = {
   STARTER_ABOUT_BUTTON_URL: 'https://muselink.cc/baily',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
-  STARTER_ABOUT_TIPS_1: '玩转科技',
+  STARTER_ABOUT_TIPS_1: '世界很大',
   STARTER_ABOUT_TIPS_2: '和我一起',
-  STARTER_ABOUT_TIPS_3: 'Tech Value',
+  STARTER_ABOUT_TIPS_3: 'Explore it',
 
   // 首页价格区块
   STARTER_PRICING_ENABLE: false, // 价格区块开关
